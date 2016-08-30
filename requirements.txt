@@ -1,0 +1,6 @@
+Django==1.9.5
+gunicorn==19.1.0
+numpy==1.11.1
+PasteDeploy==1.5.2
+scipy==0.18.0
+whitenoise==3.2.1
